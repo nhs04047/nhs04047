@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/71453094/168137824-d02c0aad-958f-4f52-be48-d6b8d0efa978.png", width="200"/>
+  <img src="https://user-images.githubusercontent.com/71453094/168138694-7e1f2e80-6169-45e6-8a33-f209920b46a4.png" width="30%" height="30%"/>
+
 
   <h3> 👋 Hi, I'm BoHyeon👋</h3>
   <br>
