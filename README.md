@@ -8,7 +8,7 @@
 <h6>
   공부를 해봤거나 사용이 가능한 스택입니다.<br>
   현재는 Back End 분야에 집중을 하는 중입니다. ✍️
-<h6>
+</h6>
 
 <p>
   <img  src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></a>&nbsp
