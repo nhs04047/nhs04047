@@ -19,11 +19,11 @@
     <img  src="https://img.shields.io/badge/Python-f5f5f5?style=flat-square&logo=Python&logoColor=3776AB"/></a>&nbsp
     <img  src="https://img.shields.io/badge/JavaScript-f5f5f5?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/></a>&nbsp
     <img  src="https://img.shields.io/badge/C-f5f5f5?style=flat-square&logo=C&logoColor=A8B9CC"/></a>&nbsp
-    <img  src="https://img.shields.io/badge/C Sharp-f5f5f5?style=flat-square&logo=csharp&  logoColor=239120"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/C Sharp-f5f5f5?style=flat-square&logo=csharp&logoColor=239120"/></a>&nbsp
     <br/>
-    <img  src="https://img.shields.io/badge/node.js-f5f5f5?style=flat-square&logo=node.js& logoColor=99CC33"/></a>&nbsp
-    <img  src="https://img.shields.io/badge/Express.js-f5f5f5?style=flat-square&logo=Express&  logoColor=000000"/></a>&nbsp
-    <img  src="https://img.shields.io/badge/MongoDB-f5f5f5?style=flat-square&logo=MongoDB& logoColor=99CC00"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/node.js-f5f5f5?style=flat-square&logo=node.js&logoColor=99CC33"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/Express.js-f5f5f5?style=flat-square&logo=Express&logoColor=000000"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/MongoDB-f5f5f5?style=flat-square&logo=MongoDB&logoColor=99CC00"/></a>&nbsp
     <img  src="https://img.shields.io/badge/Oracle-f5f5f5?style=flat-square&logo=Oracle&logoColor=F80000"/></a>&nbsp
     <img  src="https://img.shields.io/badge/HTML5-f5f5f5?style=flat-square&logo=HTML5&logoColor=E34F26"/></a>&nbsp
     <img  src="https://img.shields.io/badge/CSS3-f5f5f5?style=flat-square&logo=CSS3&logoColor=1572B6"/></a>&nbsp
@@ -34,8 +34,8 @@
 
 
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:nhs04047@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:nhs04047@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-f5f5f5?style=flat-square&logo=Gmail&logoColor=d14836&link=mailto:snugyun01@gmail.com)](mailto:nhs04047@gmail.com)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-f5f5f5?style=flat-square&logo=Instagram&logoColor=E4405F&link=mailto:snugyun01@gmail.com)](mailto:nhs04047@gmail.com)
 
   <br>
 
