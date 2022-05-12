@@ -36,4 +36,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:nhs04047@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:nhs04047@gmail.com)
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhs04047%2Fhit-counter&count_bg=%2383CDBE&title_bg=%2300B9CE&icon=smugmug.svg&icon_color=%23FFFFFF&title=&edge_flat=false"/></a>
+
 </div>
