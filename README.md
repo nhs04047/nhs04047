@@ -15,18 +15,18 @@
   </h6>
 
   <p>
-    <img  src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></a>&nbsp
-    <img  src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
-    <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>&nbsp
-    <img  src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>&nbsp
-    <img  src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=csharp&  logoColor=white"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/Java-f5f5f5?style=flat-square&logo=java&logoColor=9B111E"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/Python-f5f5f5?style=flat-square&logo=Python&logoColor=3776AB"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/JavaScript-f5f5f5?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/C-f5f5f5?style=flat-square&logo=C&logoColor=A8B9CC"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/C Sharp-f5f5f5?style=flat-square&logo=csharp&  logoColor=239120"/></a>&nbsp
     <br/>
-    <img  src="https://img.shields.io/badge/node.js-99CC33?style=flat&logo=node.js& logoColor=white"/></a>&nbsp
-    <img  src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express&  logoColor=white"/></a>&nbsp
-    <img  src="https://img.shields.io/badge/MongoDB-99CC00?style=flat&logo=MongoDB& logoColor=white"/></a>&nbsp
-    <img  src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></a>&nbsp
-    <img  src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>&nbsp
-    <img  src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/node.js-f5f5f5?style=flat-square&logo=node.js& logoColor=99CC33"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/Express.js-f5f5f5?style=flat-square&logo=Express&  logoColor=000000"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/MongoDB-f5f5f5?style=flat-square&logo=MongoDB& logoColor=99CC00"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/Oracle-f5f5f5?style=flat-square&logo=Oracle&logoColor=F80000"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/HTML5-f5f5f5?style=flat-square&logo=HTML5&logoColor=E34F26"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/CSS3-f5f5f5?style=flat-square&logo=CSS3&logoColor=1572B6"/></a>&nbsp
   </p>
   <br>
 
@@ -34,11 +34,11 @@
 
 
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:nhs04047@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:nhs04047@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:nhs04047@gmail.com)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:nhs04047@gmail.com)
 
   <br>
 
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhs04047%2Fhit-counter&count_bg=%2383CDBE&title_bg=%2300B9CE&icon=smugmug.svg&icon_color=%23FFFFFF&title=&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhs04047%2Fhit-counter&count_bg=%2383CDBE&title_bg=%2300B9CE&icon=smugmug.svg&icon_color=%23FFFFFF&title=&edge_flat=true"/></a>
 
 </div>
