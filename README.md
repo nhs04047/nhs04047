@@ -1,6 +1,3 @@
-<center>
-  👋 Hi, I’m Bohyeon 👋
-  <img
-  src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
-/>
-<center/>
+
+<h3 align="center">👋 Hi, I’m Bohyeon 👋<h3/>
+
