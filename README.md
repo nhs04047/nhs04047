@@ -1,21 +1,18 @@
+<div align="center">
 
 
-<center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhs04047%2Fhit-counter&count_bg=%23FFA1B1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhs04047%2Fhit-counter&count_bg=%23FFA1B1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<h2> 👋 Hi, I'm BoHyeon👋</h2><br>
 
-</center>
+<h3>🌿 Tech Stack 🌿</h3><br>
 
-<h2 align="center"> 👋 Hi, I'm BoHyeon👋</h2><br>
-
-<h3 align="center">🌿 Tech Stack 🌿</h3><br>
-
-<p align="center">
+<p
   공부를 해봤거나 사용이 가능한 스택입니다.<br>
   현재는 BackEnd 분야에 집중을 하는 중입니다. ✍️
 <p>
 
-<p align="center">
+<p>
   <img  src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></a>&nbsp
   <img  src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
   <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp
@@ -32,11 +29,11 @@
 
 ---
 
-<h4 align="center">🌿 Contect 🌿</h4><br>
+<h4>🌿 Contect 🌿</h4>
 
-<center>
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:nhs04047@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:nhs04047@gmail.com)
 
-</center>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:nhs04047@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:nhs04047@gmail.com)
+
+</div>
