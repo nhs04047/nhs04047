@@ -6,7 +6,7 @@
 
 </center>
 
-<h2 align="center"> 👋 Hi, I'm BoHyeon👋</h2><br>
+<h3 align="center"> 👋 Hi, I'm BoHyeon👋</h2><br>
 
 <h3 align="center">🌿 Tech Stack 🌿</h3><br>
 
