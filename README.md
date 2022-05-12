@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![image](https://user-images.githubusercontent.com/71453094/168137824-d02c0aad-958f-4f52-be48-d6b8d0efa978.png)
+  <img src="https://user-images.githubusercontent.com/71453094/168137824-d02c0aad-958f-4f52-be48-d6b8d0efa978.png", width="200"/>
 
   <h3> 👋 Hi, I'm BoHyeon👋</h3>
   <br>
