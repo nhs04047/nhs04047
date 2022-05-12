@@ -35,7 +35,8 @@
 
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-f5f5f5?style=flat-square&logo=Gmail&logoColor=d14836&link=mailto:snugyun01@gmail.com)](mailto:nhs04047@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-f5f5f5?style=flat-square&logo=Instagram&logoColor=E4405F&link=mailto:snugyun01@gmail.com)](mailto:nhs04047@gmail.com)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-f5f5f5?style=flat-square&logo=Instagram&logoColor=E4405F&link=https://www.instagram.com/1117.222.322/)](mailto:nhs04047@gmail.com)
+  [![GitHub Badge](https://img.shields.io/badge/Gmail-f5f5f5?style=flat-square&logo=GitHub&logoColor=#181717&link=mailto:snugyun01@gmail.com)]
 
   <br>
 
