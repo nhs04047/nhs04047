@@ -7,7 +7,7 @@
   <br>
 
 
-  <h3>🌿 Tech Stack 🌿</h3>
+  <h3>🌿 Tech Stack and Tools🌿</h3>
 
   <h6>
     공부를 해봤거나 사용이 가능한 스택입니다.<br>
@@ -27,6 +27,13 @@
     <img  src="https://img.shields.io/badge/Oracle-f5f5f5?style=flat-square&logo=Oracle&logoColor=F80000"/></a>&nbsp
     <img  src="https://img.shields.io/badge/HTML5-f5f5f5?style=flat-square&logo=HTML5&logoColor=E34F26"/></a>&nbsp
     <img  src="https://img.shields.io/badge/CSS3-f5f5f5?style=flat-square&logo=CSS3&logoColor=1572B6"/></a>&nbsp
+    <br/>
+    <img  src="https://img.shields.io/badge/Eclipse IDE-f5f5f5?style=flat-square&logo=Eclipse IDE&logoColor=2C2255"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/Visual Studio Code-f5f5f5?style=flat-square&logo=Visual Studio Code&logoColor=007ACC"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/Postman-f5f5f5?style=flat-square&logo=Postman&logoColor=FF6C37"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/Swagger-f5f5f5?style=flat-square&logo=Swagger&logoColor=85EA2D"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/Git-f5f5f5?style=flat-square&logo=Git&logoColor=F05032"/></a>&nbsp
+    <img  src="https://img.shields.io/badge/etc...-f5f5f5?style=flat-square&logoColor=F05032"/></a>&nbsp
   </p>
   <br>
 
